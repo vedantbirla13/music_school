@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "title": "Piano Fundamentals",
+      "slug": "piano-fundamentals",
+      "description": "Master the basics of playing the piano with this comprehensive course. Learn proper finger techniques, basic music theory, and essential scales.",
+      "price": 49.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "piano-fundamentals.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Guitar Mastery",
+      "slug": "guitar-mastery",
+      "description": "Unlock your potential as a guitarist with this advanced course. Dive deep into chord progressions, soloing techniques, and music improvisation.",
+      "price": 59.99,
+      "instructor": "Michael Smith",
+      "isFeatured": true,
+      "image": "guitar-mastery.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Techniques",
+      "slug": "vocal-techniques",
+      "description": "Discover the secrets to a powerful and expressive voice. Improve your vocal range, breath control, and performance skills.",
+      "price": 39.99,
+      "instructor": "Sarah Adams",
+      "isFeatured": false,
+      "image": "vocal-techniques.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Music Production Essentials",
+      "slug": "music-production-essentials",
+      "description": "Learn the fundamentals of music production from industry experts. Explore sound design, mixing techniques, and digital audio workstations.",
+      "price": 69.99,
+      "instructor": "David Wilson",
+      "isFeatured": false,
+      "image": "music-production-essentials.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Songwriting Workshop",
+      "slug": "songwriting-workshop",
+      "description": "Unleash your creativity and craft compelling songs. Dive into lyric writing, melody composition, and song structure.",
+      "price": 44.99,
+      "instructor": "Emma Lee",
+      "isFeatured": true,
+      "image": "songwriting-workshop.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Drumming Basics",
+      "slug": "drumming-basics",
+      "description": "Get started with drumming and lay down solid rhythms. Learn drum notation, basic beats, and essential drumming techniques.",
+      "price": 34.99,
+      "instructor": "Jason Brown",
+      "isFeatured": false,
+      "image": "drumming-basics.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Advanced Music Theory",
+        "slug": "advanced-music-theory",
+        "description": "Dive deep into the intricate world of music theory. Explore advanced concepts such as harmony, counterpoint, and form.",
+        "price": 59.99,
+        "instructor": "Rachel Garcia",
+        "isFeatured": true,
+        "image": "advanced-music-theory.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Singing for Beginners",
+        "slug": "singing-for-beginners",
+        "description": "Discover the joy of singing and develop your vocal skills from scratch. Learn proper breathing techniques, vocal warm-ups, and basic repertoire.",
+        "price": 29.99,
+        "instructor": "Daniel Lee",
+        "isFeatured": true,
+        "image": "singing-for-beginners.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Create your own electronic music tracks with confidence. Explore sound synthesis, drum programming, and arrangement techniques.",
+        "price": 49.99,
+        "instructor": "Sophia Martinez",
+        "isFeatured": true,
+        "image": "electronic-music-production.jpg"
+      }
+  ]
+  
