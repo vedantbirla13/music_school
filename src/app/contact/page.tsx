@@ -1,7 +1,7 @@
 "use client"
 
-import { BackgroundBeams } from "@/components/ui/background-breams";
 import React, { FormEvent, useState } from "react";
+import { BackgroundBeams } from "@/components/ui/background-breams";
 
 const page = () => {
 
@@ -31,6 +31,7 @@ const page = () => {
           value={email}
           placeholder="Your email address"
           className="rounded-lg w-full border border-neutral-800 focus:ring-2 focus:ring-teal-500 p-4 bg-neutral-950 placeholder:text-neutral-700"
+          onChange={(e) => setEmail(e.target.value)}
           required
         />
         <textarea
@@ -38,6 +39,7 @@ const page = () => {
           id=""
           rows={5}
           value={message}
+          onChange={(e) => setMessage(e.target.value)}
           placeholder="Your message"
           className="rounded-lg w-full border border-neutral-800 focus:ring-2 focus:ring-teal-500 p-4 bg-neutral-950 placeholder:text-neutral-700"
           required
